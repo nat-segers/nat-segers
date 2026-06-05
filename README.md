@@ -4,9 +4,9 @@
 
 My professional background has required meticulous attention to detail, critical thinking, and the ability to manage complex projects while collaborating with clinicians, researchers, and operational stakeholders. I focus on transforming healthcare data into meaningful insights that support better patient outcomes and more informed decision-making.
 <br><br>
-I am currently building technical proficiency in SQL, R, and data science methodologies through structured self-learning and hands-on projects. This repository documents that journey and reflects my goal of combining deep clinical expertise with analytical and technical skills to contribute to healthcare informatics, clinical analytics, and data-driven healthcare innovation.
+At present, I am building technical proficiency in SQL, R, and data science methodologies through structured self-learning and hands-on projects. This repository documents that journey and reflects my goal of combining deep clinical expertise with analytical and technical skills to contribute to healthcare informatics, clinical analytics, and data-driven healthcare innovation.
 <br><br>
-Currently I am...
+Currently...
 <ls>
 <ul>📝 Learning: SQL, R, Python</ul>
 <ul>⚕️ Working at: The IV Doc and Data Annotation</ul>
